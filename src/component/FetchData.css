@@ -1,0 +1,14 @@
+
+.contentDiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 22px;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    width: 86%;
+}
+.ant-card-body{
+    margin: auto;
+    background-color: rgb(228, 231, 185);
+}
